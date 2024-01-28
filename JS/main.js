@@ -120,7 +120,7 @@ async function mealDetails(id) {
       `;
       }
    let box = `
-   <div class="meal-details">
+   <div class="meal-details row">
    
          <div class="col-md-4">
          <div>
